@@ -8,6 +8,9 @@ Udacity Capstone Project (Data Science)
 
 This project aims to analyze and predict Electric Vehicle (EV) charging infrastructure accessibility across Germany, with a particular focus on EnBW charging stations. The analysis combines Google Trends data with charging station density to identify areas with accessibility gaps, especially in rural regions. By classifying regions into urban and rural categories and normalizing metrics for comparison, this project highlights where infrastructure expansion could meet growing demand more effectively.
 
+Blogpost on the topic: https://liliyaivanova.wordpress.com/2024/11/10/optimizing-ev-charging-accessibility-in-germany-a-data-driven-analysis-for-enbw/
+
+
 ## Project Structure
 
 - `EV EnBW submission.html` - A rendered HTML report detailing the analysis and results.
